@@ -1,4 +1,4 @@
-##Telegram bot test task
+#Telegram bot test task
 
 ### Table of content
 * [About technical details](#about-technical-details)
