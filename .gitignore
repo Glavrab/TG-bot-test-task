@@ -1,0 +1,11 @@
+# Virtual enviroment
+venv/
+
+#IDE files
+.idea/
+
+#docker-compose.yaml file
+.env
+
+#Project files
+config.json
