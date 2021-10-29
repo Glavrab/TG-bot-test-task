@@ -8,7 +8,7 @@
 ## About Technical details
 **Current stack**: Python 3.9+, Docker, aiogram, aiohttp(Client part to access api), redis.
 
-#Deploy
+##Deploy
 ```shell script
 $ mkdir telegram_bot_test_task
 $ cd telegram_bot_test_task
@@ -18,7 +18,7 @@ $ vim config.json
 $ docker-compose build
 $ docker-compose up
 ```
-### Project's settings
+## Project's settings
 `.env` file composition. Values appear in docker-compose.yaml
 
 1. REDIS_PASSWORD
