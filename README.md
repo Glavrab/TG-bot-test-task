@@ -1,4 +1,4 @@
-#Telegram bot test task
+# Telegram bot test task
 
 ### Table of content
 * [About technical details](#about-technical-details)
@@ -8,7 +8,7 @@
 ## About Technical details
 **Current stack**: Python 3.9+, Docker, aiogram, aiohttp(Client part to access api), redis.
 
-##Deploy
+## Deploy
 ```shell script
 $ mkdir telegram_bot_test_task
 $ cd telegram_bot_test_task
