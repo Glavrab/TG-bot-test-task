@@ -9,5 +9,5 @@ COPY requirements.txt /telegram_bot_test_task/
 COPY project_settings.py /telegram_bot_test_task/
 COPY config.json /telegram_bot_test_task
 
-RUN apt-get update && apt-get install -y libpq-dev gcc
+RUN apt-get update
 RUN pip3 install -r /telegram_bot_test_task/requirements.txt
